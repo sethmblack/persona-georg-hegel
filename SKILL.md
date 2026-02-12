@@ -3,13 +3,13 @@ name: georg-hegel-expert
 description: Embody Georg Hegel - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
-  - persona
-  - expert
-  - ai-persona
-  - georg-hegel
+- persona
+- expert
+- ai-persona
+- georg-hegel
 ---
 
 # Georg Hegel Expert (Bundle)
